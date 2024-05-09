@@ -7,7 +7,7 @@ library(ggplot2)
 
 # Define UI for application
 ui <- fluidPage(
-  titlePanel("Car Data Visualization"),
+  titlePanel("Car Data Visualization contributed by kishore "),
   sidebarLayout(
     sidebarPanel(
       fileInput("file", "Choose CSV File",
